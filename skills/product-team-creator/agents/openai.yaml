@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Team Creator"
+  short_description: "Set up a product owner, teams and specialists"
+  default_prompt: "Use $product-team-creator to set up a product team and interview me in its PO chat."

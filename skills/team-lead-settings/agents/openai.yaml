@@ -1,0 +1,4 @@
+interface:
+  display_name: "Team Lead Settings"
+  short_description: "Configure repository teams, reviews and callbacks"
+  default_prompt: "Use $team-lead-settings to configure this repository team lead with me."
